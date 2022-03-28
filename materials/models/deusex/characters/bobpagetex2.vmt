@@ -1,0 +1,4 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/DeusEx/Characters/BobPageTex2"
+"$halflambert" "1" "$nocull" "1"  }
